@@ -101,14 +101,7 @@ Raw Flight Dataset (3 Million Records)
 
 ## 📷 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
-
-Example:
-
-```
-<img width="2212" height="1246" alt="image" src="https://github.com/user-attachments/assets/3566be65-a503-4616-8e3e-acd70f7d44a3" />
-
-```
+> <img width="2212" height="1246" alt="image" src="https://github.com/user-attachments/assets/8bdd4c84-42f7-4c1b-bebe-e03686dabab6" />
 
 ---
 
