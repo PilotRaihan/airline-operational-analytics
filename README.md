@@ -10,6 +10,7 @@ This project analyzes flight operations data to identify delay patterns, airport
 The original dataset contained **3 million flight records**. Due to hardware limitations and to ensure smooth analysis and dashboard performance, the dataset was reduced to **500,000 records** while preserving its overall distribution and analytical value.
 
 Here is the link to orginal dataset: https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
+
 Due to its size the data cannot be put up on the repository.
 
 
